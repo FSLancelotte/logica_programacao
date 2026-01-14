@@ -1,6 +1,8 @@
 # Curso de Lógica de Programação do EBAC
 
-Aqui estão o passo a passo seguido nos estudos de lógica de programação em python do curso do EBAC
+Aqui estão o passo a passo seguido nos estudos de lógica de programação em python do curso do EBAC.
+
+Este repositório tem o intuito apenas de deixar registrado o progresso de aprendizado.
 
 # Objetivos didáticos de cada aula:
 
